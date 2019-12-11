@@ -2,7 +2,9 @@
 
 This tool computes analytically the electrical potential in a three-layered
 sphere (head) model due to two point electrodes at the boundary. It was used for
-validating our tDCS simulation solver.
+validating our tDCS simulation solver and is mentioned in the paper
+**A flexible workflow for simulating transcranial electric stimulation in healthy and lesioned brains**
+by *Benjamin Kalloch, Pierre-Louis Bazin, Arno Villringer, Bernhard Sehm, and Mario Hlawitschka*.
 
 The theory behind the tool was introduced by Stanley Rush and Danial A. Driscoll
 in their paper "Current distribution in the brain from surface electrodes." in
